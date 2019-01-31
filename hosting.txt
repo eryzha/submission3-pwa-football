@@ -1,0 +1,6 @@
+Firebase Hosting 
+https://football-match-pwa.firebaseapp.com
+
+
+Github Pages
+https://github.com/eryzha/submission3-pwa-football
